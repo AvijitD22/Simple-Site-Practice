@@ -1,0 +1,93 @@
+.myclass {
+    background-color: black;
+    color: white;
+    background: url(https://c4.wallpaperflare.com/wallpaper/954/5/66/code-programmers-programming-doom-game-wallpaper-preview.jpg) fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.top {
+    /* background: url(../images/bridge.jpg) no-repeat; */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.navbar {
+    background-color: black;
+    font-size: large;
+}
+
+.navbar-brand {
+    margin-left: 20%;
+}
+
+.navbar-brand:hover {
+    font-size: larger;
+}
+
+.item-links {
+    margin-right: 20%;
+}
+
+.nav-link:hover {
+    position: relative;
+    bottom: 10%;
+}
+
+.title {
+    font-weight: 600;
+    font-family: 'Alegreya SC', serif;
+    font-size: 6em;
+    position: relative;
+    top: 35%;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.about {
+    padding: 12%;
+    font-size: 1.7em;
+    text-align: center;
+}
+
+.skills {
+    padding: 7%;
+    font-size: 1.7em;
+    text-align: center;
+}
+
+.logo {
+    height: 180px;
+    width: 180px;
+    padding: 3%;
+}
+
+.blog {
+    text-align: center;
+    padding: 30px;
+}
+
+.card {
+    margin: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.contact {
+    background: url(../images/contact.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.contact-logo {
+    position: relative;
+    left: 40%;
+    top: 75%;
+    margin: 1%;
+    font-size: xx-large;
+}
